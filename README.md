@@ -10,4 +10,4 @@ Currently this plugin is not on Package Control so manual installation is requir
 After installations you will see two new entries inside sidebar context menu: `NewFilePrompt: Create New File` and 
 `NewFilePrompt: Create New Folder` 
 
-_Note: Bash like expansions are supported. (e.g `main.{cpp,h}` will create two files: `main.cpp` and `main.h`)_
+_Note: Bash-like expansions are supported. (e.g `main.{cpp,h}` will create two files: `main.cpp` and `main.h`)_
