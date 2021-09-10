@@ -1,0 +1,15 @@
+[
+    {
+        "caption": "NewFilePrompt: Create New File",
+        "id": "new_file",
+        "command": "make_new_file",
+        "args": {"dirs": []}
+    },
+
+    {
+        "caption": "NewFilePrompt: Create New Folder",
+        "id": "new_folder",
+        "command": "make_new_folder",
+        "args": {"dirs": []}
+    }
+]
